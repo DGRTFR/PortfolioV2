@@ -5,6 +5,7 @@ const nextConfig = {
 		mdxRs: true,
 	},
 	turbopack: {},
+	output: 'export',
 };
 
 export default nextConfig;
