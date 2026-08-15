@@ -16,6 +16,7 @@ out/
 
 # production
 build/
+lib/projects.generated.json
 
 # misc
 .DS_Store

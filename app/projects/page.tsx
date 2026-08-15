@@ -42,7 +42,7 @@ export default async function ProjectsPage() {
 				new Date(a.date ?? Number.POSITIVE_INFINITY).getTime(),
 		);
 
-	const featured = allProjects.find((p) => p.slug === "etherlinx") ?? published[0];
+	const featured = allProjects.find((p) => p.slug === "zenyx") ?? published[0];
 	const remaining = published.filter((p) => p.slug !== featured.slug);
 	const top2 = remaining[0];
 	const top3 = remaining[1];
