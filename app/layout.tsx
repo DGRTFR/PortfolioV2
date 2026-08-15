@@ -14,8 +14,8 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: "Portfolio - DGRT",
 		description: "A young boy passionate by computers science.",
-		url: "https://DGRT.eu",
-		siteName: "Portfolio - Friezer",
+		url: "https://dgrt.fr",
+		siteName: "Portfolio - DGRT",
 		//images: [
 		//	{
 		//		url: "https://dgrt.fr/og.png",
