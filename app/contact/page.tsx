@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, Twitter } from "lucide-react";
+import { Github, Mail, Twitter, Linkedin } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -7,21 +7,27 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:hello@friezer.eu",
+		href: "mailto:hello@dgrt.fr",
 		label: "Email",
-		handle: "hello@friezer.eu",
+		handle: "hello@dgrt.fr",
+	},
+	{
+		icon: <Linkedin size={20} />,
+		href: "https://www.linkedin.com/in/dgrtfr/",
+		label: "Linkedin",
+		handle: "@DGRTFR",
 	},
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/Friezer_85",
+		href: "https://twitter.com/DGRTFR",
 		label: "X (Formerly Twitter)",
 		handle: "@Friezer_85",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/Friezer-85",
+		href: "https://github.com/DGRTFR",
 		label: "GitHub",
-		handle: "Friezer-85",
+		handle: "@DGRTFR",
 	},
 ];
 

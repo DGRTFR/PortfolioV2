@@ -7,18 +7,18 @@ import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata: Metadata = {
 	title: {
-		default: "Portfolio - Friezer",
-		template: "%s | Portfolio - Friezer",
+		default: "Portfolio - DGRT",
+		template: "%s | Portfolio - DGRT",
 	},
 	description: "A young boy passionate by computers science.",
 	openGraph: {
-		title: "Portfolio - Friezer",
+		title: "Portfolio - DGRT",
 		description: "A young boy passionate by computers science.",
-		url: "https://friezer.eu",
+		url: "https://DGRT.eu",
 		siteName: "Portfolio - Friezer",
 		//images: [
 		//	{
-		//		url: "https://friezer.eu/og.png",
+		//		url: "https://dgrt.fr/og.png",
 		//		width: 1920,
 		//		height: 1080,
 		//	},
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Portfolio - Friezer",
+		title: "Portfolio - DGRT",
 		card: "summary_large_image",
 	},
 	//icons: {

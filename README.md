@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://friezer.eu"><h1 align="center">friezer.eu</h1></a>
+    <a href="https://dgrt.fr"><h1 align="center">dgrt.fr</h1></a>
 
 My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [Upstash](https://upstash.com?ref=chronark.com), [Contentlayer](https://www.contentlayer.dev/) and deployed to [Vercel](https://vercel.com/).
 
@@ -14,7 +14,7 @@ My personal website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](h
 
 
 ```sh-session
-git clone https://github.com/Friezer-85/PortfolioV2.git
+git clone https://github.com/DGRTFR/PortfolioV2.git
 cd PortfolioV2
 ```
 

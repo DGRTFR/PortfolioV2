@@ -11,7 +11,6 @@
   "dependencies": {
     "@next/mdx": "^16.1.6",
     "@upstash/redis": "^1.36.2",
-    "@vercel/analytics": "^1.6.1",
     "framer-motion": "^12.34.3",
     "gray-matter": "^4.0.3",
     "lucide-react": "^0.575.0",
